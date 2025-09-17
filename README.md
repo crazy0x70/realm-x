@@ -1,5 +1,3 @@
-## 🤖 Assistant
-
 # Realm-X 管理工具
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
